@@ -1,0 +1,117 @@
+baseURL = "http://justwisdomthings.dev"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+theme = "hermit-v2"
+enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
+
+[languages]
+  [languages.en]
+    title = 'JustWisdomThings'
+    [languages.en.params]
+      homeSubtitle = "\"your art is about if your heart likes your work\" -Rupi Kuar"
+    weight = 1
+
+
+languageCode = "en-us"
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+
+rssLimit = 10
+
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+enableEmoji = true
+
+[frontmatter]
+    date = ["date", "publishDate", "lastmod"]
+    lastmod = ["lastmod", ":git", "date", "publishDate"]
+    publishDate = ["publishDate", "date"]
+    expiryDate = ["expiryDate"]
+
+[params.author]
+    name = "Wisdom Mills-Owoo"
+    about = "about-me"
+
+[taxonomies]
+    tag = "tags"
+    # Categories are disabled by default.
+    # category = "categories"
+
+[params]
+    # images = [""]
+    themeColor = "#f3a712"
+    accentColor = "#29335c"
+
+    gitUrl = "https://github.com/WisdomMillsOwoo"
+
+    justifyContent = false
+
+    relatedPosts = true
+    code_copy_button = true
+
+    homeSubtitlePrinter = true
+    scrollToTop = true
+    global_mathjax = false
+    readTime = true
+    readTimeSeparator = ""
+    shareSocial = true
+
+    pinned = "Pinned Posts"
+
+    [params.gallery]
+        enable = true
+        thumbnail = '300'
+
+    [params.dateform]
+        CopyrightDate = "2006"
+        LongDate = "Jan 2, 2006"
+        ShortDate = "Jan 2"
+        NumDateShort = "2006-01-02"
+        NumDateLong = "2006-01-02"
+
+    [[params.socialLinks]]
+        name = "bluesky"
+        url = "https://bsky.app/profile/did:plc:kabxvfy7p2vxpbcr3zmqnrwv"
+
+    [[params.socialLinks]]
+        name = "github"
+        url = "https://github.com/WisdomMillsOwoo"
+
+    [[params.socialLinks]]
+        name = "youtube"
+        url = "https://www.youtube.com/channel/UCfmXh9x3TklDsTP6SOCF8bQ"
+
+    [[params.socialLinks]]
+        name = "rss"
+        url = "index.xml"
+
+[menu]
+
+    [[menu.main]]
+        name = "Blog Posts"
+        url = "posts/"
+        weight = 10
+
+    #[[menu.main]]
+        #name = "Projects"
+        #url = "projects/"
+        #weight = 20
+
+    #[[menu.main]]
+       #name = "Photography"
+        #url = "photography/"
+        #weight = 30
+
+    [[menu.main]]
+        name = "Poetry"
+        url = "poetry/"
+        weight = 20
+
+    [[menu.main]]
+        name = "About Me"
+        url = "about-me/"
+        weight = 30
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
