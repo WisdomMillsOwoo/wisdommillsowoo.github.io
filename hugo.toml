@@ -1,4 +1,4 @@
-baseURL = "http://justwisdomthings.dev"
+baseURL = "https://justwisdomthings.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme = "hermit-v2"
