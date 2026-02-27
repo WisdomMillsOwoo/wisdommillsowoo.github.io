@@ -14,15 +14,12 @@ just machine learning?
 
 Anyway, so I wasn't impressed with ChatGPT especially because of how wrong it was about SO MANY things initially. Then google released Bard 
 (later to be renamed to Gemini for some unexplained reason). It also made a lot of mistakes.
-I starte to kinda dounbt the technology. It didn't seem worth the potential and very real impact on the environment, and the 
+I started to kinda doubt the technology. It didn't seem worth the potential and very real impact on the environment, and the 
 MASSIVE AMMOUNT THEFT! 
 
 I still don't think it'll ever be worth that, but these tools have become legitimately useful in my everyday life.
 
-At some point, it crossed the line, somewhere between cursor, which seemed convincingly good, but felt distant from me.
-1. Because I used IntelliJ as my IDE, and I really disliked using VSCode, so it was a hard-sell for development.
-2. For personal things, the friction of having to download a new app, or use a website seemed like too much of a hassle.
-(I really don't like downloading new apps in general)
+At some point, it crossed the line and became useful, but still felt distant from me.
 
 And then I got access Claude Code at work. When I learned this app was a CLI tool, I was intrigued because 
 there's nothing that says "This is for software engineers" like building something for the Terminal. I think the real difference
@@ -34,7 +31,7 @@ and Anthropic introduced the skills feature, which was like creating little mini
 The first thing I used it to do was automate our dependabot merges. If you know what those are, you know they are SUCH A CHORE.
 Claude has basically taken over that task for me, and it's such low risk of a task. 
 
-Today, Claude Code is a full coding assistant for me. With enough examples, and clear instructions, it can save you a massive amount of time. 
+Today, Claude Code is a full coding assistant for me. With enough examples and clear instructions, it can save you a massive amount of time. 
 Time trying to find the right documentation. Time tweaking configurations in 18 different ways because the documentation is always too vague! 
 It saves you time creating huge test objects with realistic test values. Time reading long complex stack traces or formating data!
 
@@ -61,15 +58,15 @@ If anything, the opposite is happening, we're losing our jobs!
 Version 2: With great power, comes great responsibility. 
 - 
 Second, the great power is the ability to just have code created for you. Why even plan or design features, 
-just have Claude figure it out. Grab your jira ticket, throw it into Claude, and chime in every once in a while to check on it, 
+just have Claude figure it out. Grab your jira ticket, throw it into Claude, and chime in every once in a while to check on it.
 Raise the PR at the end and someone else can catch its bugs. The responsibility is to NOT do this!
 
 In the content space, the creators that spent time to build trust with their audience, and put out high quality/trustworthy 
-content don't seem impacted by the slop. In fact, it seems like people are craving more of that honesty. 
+content don't seem impacted by the explosion if AI slop. In fact, it seems like people are craving more of that honesty. 
 However, if you spent your time as a creator just making low quality clickbait, you're cooked. 
 
-That's also true about being s Software Engineer. I think bad engineers are cooked. But only if they choose not to learn. Because
-these tools can help a bad engineer become a good engineer. It's like having a some one to pair program with any time you sit
+That's also true about being a Software Engineer. I think bad engineers are cooked. But only if they choose not to learn. 
+These tools can help a bad engineer become a good engineer. It's like having a someone to pair program with any time you sit
 down to write code. A good engineer will still invest in engineering knowledge. AI is a tool, if we must use it, 
 we should use it to make ourselves better, not to replace ourselves.
 
