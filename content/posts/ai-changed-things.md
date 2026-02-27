@@ -25,7 +25,8 @@ At some point, it crossed the line, somewhere between cursor, which seemed convi
 (I really don't like downloading new apps in general)
 
 And then I got access Claude Code at work. When I learned this app was a CLI tool, I was intrigued because 
-there's nothing that says "This is for software engineers" like building something for the Terminal.
+there's nothing that says "This is for software engineers" like building something for the Terminal. I think the real difference
+that Anthropic made was that they actually built software to address a core audience.
 
 It was impressive, but not mind-blowing. Not until I watched a [YouTube video](https://www.youtube.com/watch?v=kZ-zzHVUrO4) 
 and Anthropic introduced the skills feature, which was like creating little minion pieces of instruction sets for specified tasks. 
@@ -35,7 +36,7 @@ Claude has basically taken over that task for me, and it's such low risk of a ta
 
 Today, Claude Code is a full coding assistant for me. With enough examples, and clear instructions, it can save you a massive amount of time. 
 Time trying to find the right documentation. Time tweaking configurations in 18 different ways because the documentation is always too vague! 
-It saves you time creating huge test objects, with realistic test values. Time reading long complex stack traces or formating data!
+It saves you time creating huge test objects with realistic test values. Time reading long complex stack traces or formating data!
 
 It also makes me _very_ sad. 
 
@@ -59,23 +60,23 @@ If anything, the opposite is happening, we're losing our jobs!
 
 Version 2: With great power, comes great responsibility. 
 - 
-Second, the great power is the ability to just have code create for you. Why even plan or design features, 
+Second, the great power is the ability to just have code created for you. Why even plan or design features, 
 just have Claude figure it out. Grab your jira ticket, throw it into Claude, and chime in every once in a while to check on it, 
 Raise the PR at the end and someone else can catch its bugs. The responsibility is to NOT do this!
 
-Something I have noticed in the content space is that the creators that spent time to build trust with their audience, and 
-always put out high quality/trustworthy content don't seem impacted by the slop. In fact, it seems like people are craving more 
-of that honesty. However, if you spent your time as a creator just making low quality clickbait, you're cooked. 
+In the content space, the creators that spent time to build trust with their audience, and put out high quality/trustworthy 
+content don't seem impacted by the slop. In fact, it seems like people are craving more of that honesty. 
+However, if you spent your time as a creator just making low quality clickbait, you're cooked. 
 
-That's also true about being s Software Engineer. So I think a good engineer should still invest in engineering knowledge. AI is
-a tool, if we must use it, we should use it to make ourselves better, not to replace ourselves.
+That's also true about being s Software Engineer. I think bad engineers are cooked. But only if they choose not to learn. Because
+these tools can help a bad engineer become a good engineer. It's like having a some one to pair program with any time you sit
+down to write code. A good engineer will still invest in engineering knowledge. AI is a tool, if we must use it, 
+we should use it to make ourselves better, not to replace ourselves.
 
-A lot of bad, but also some real positives. It's conflicting. 
+I personally enjoy creating things and I'm not going to stop. I will not use AI on this blog, but I'll probably be using
+at work and in other parts of my life. It makes my life easier. And yes, I'm conflicted about its impact, but it's useful.
 
-I enjoy creating things, and this shouldn't stop me from doing that. I will not use it on this blog, but I'll probably be using
-at work and in other parts of my life. It legitimately makes certain things I have no interest in doing, so much easier. 
-
-I'm really glad this blog exists though.
+Idk.
 
 - Wisdom
 
