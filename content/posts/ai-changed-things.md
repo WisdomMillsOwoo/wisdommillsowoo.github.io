@@ -1,6 +1,6 @@
 +++
 date = '2026-02-26T21:30:00-04:00'
-draft = true
+draft = false
 title = "LLMs Have Legitimately Changed My Life"
 +++
 ## LLMs Have Legitimately Changed My Life
